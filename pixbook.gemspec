@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "pixbook"
   s.version     = Pixbook::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Jcrt"]
+  s.email       = ["jcrt@pixnet.tw"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{pixbook gem}
+  s.description = %q{pixbook gem}
 
   s.rubyforge_project = "pixbook"
 
